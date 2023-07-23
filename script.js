@@ -3,14 +3,13 @@
 // Home Section Script Starts
 var typingText = document.querySelector('.text2');
 var myArray = 
-["BMS(building Management System)",
-"FMS(fuel Management System",
-"CCTV Security System",
-"ACS(Access Control System)", 
-"Solar Panel System",  
-"Web Developer", 
-"UX Designer", 
-"Blogger"];
+["Web Developer",
+ "UI/UX Designer",
+ "PhotoShop Designer", 
+ "AutoCad Designer",
+ "Security System",
+ "GPS Tracker",
+ "Blogger"];
 var arrayIndex = 1;
 
 function textReplace(){
