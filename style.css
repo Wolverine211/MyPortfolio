@@ -202,7 +202,7 @@ section.home{
 	left: 0;
 	background-color: var(--bg-clr-2);
 	border-left: 2px solid #fc852b;
-	animation: animationOne 5s steps(1000) infinite,
+	animation: animationOne 5s steps(5000) infinite,
 	animationTwo 5s infinite;
 }
 @keyframes animationOne{
