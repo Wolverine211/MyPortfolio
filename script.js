@@ -6,9 +6,11 @@ var myArray =
 ["Web Developer",
  "UI/UX Designer",
  "PhotoShop Designer", 
- "AutoCad Designer",
+"AutoCad Designer",
  "Security System",
  "GPS Tracker",
+ "FM System",
+ "Solar System",
  "Blogger"];
 var arrayIndex = 1;
 
