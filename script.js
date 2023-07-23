@@ -9,7 +9,7 @@ var myArray =
 "AutoCad Designer",
  "Security System",
  "GPS Tracker",
- "FM System",
+ "FM/BM System",
  "Solar System",
  "Blogger"];
 var arrayIndex = 1;
