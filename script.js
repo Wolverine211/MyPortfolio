@@ -4,6 +4,7 @@
 var typingText = document.querySelector('.text2');
 var myArray = 
 ["Web Developer",
+ "Frontend Developer",
  "UI/UX Designer",
  "PhotoShop Designer", 
 "AutoCad Designer",
